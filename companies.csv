@@ -1,0 +1,99 @@
+ticker,name,sector
+AAPL,Apple Inc,Electronic Technology
+MSFT,Microsoft Corp.,Technology Services
+GOOG,Alphabet Inc (Google) Class C,Technology Services
+AMZN,"Amazon.com, Inc.",Retail Trade
+FB,"Meta Platforms, Inc.",Technology Services
+JNJ,Johnson & Johnson,Health Technology
+UNH,UnitedHealth Group Incorporated,Health Services
+NVDA,NVIDIA Corporation,Electronic Technology
+V,Visa Inc.,Finance
+XOM,Exxon Mobil Corporation,Energy Minerals
+JPM,JP Morgan Chase & Co.,Finance
+PG,Procter & Gamble Company (The),Consumer Non-Durables
+WMT,Walmart Inc.,Retail Trade
+CVX,Chevron Corporation,Energy Minerals
+MA,Mastercard Incorporated,Commercial Services
+HD,"Home Depot, Inc. (The)",Retail Trade
+PFE,"Pfizer, Inc.",Health Technology
+BAC,Bank of America Corporation,Finance
+LLY,Eli Lilly and Company,Health Technology
+ABBV,AbbVie Inc.,Health Technology
+KO,Coca-Cola Company (The),Consumer Non-Durables
+AVGO,Broadcom Inc.,Electronic Technology
+MRK,"Merck & Company, Inc.",Health Technology
+PEP,"PepsiCo, Inc.",Consumer Non-Durables
+TMO,Thermo Fisher Scientific Inc,Health Technology
+VZ,Verizon Communications Inc.,Communications
+CSCO,"Cisco Systems, Inc.",Technology Services
+ABT,Abbott Laboratories,Health Technology
+COST,Costco Wholesale Corporation,Retail Trade
+DIS,Walt Disney Company (The),Consumer Services
+CMCSA,Comcast Corporation,Consumer Services
+ADBE,Adobe Inc.,Technology Services
+ORCL,Oracle Corporation,Technology Services
+DHR,Danaher Corporation,Health Technology
+ACN,Accenture plc,Technology Services
+INTC,Intel Corporation,Electronic Technology
+NKE,"Nike, Inc.",Consumer Non-Durables
+MCD,McDonalds Corporation,Consumer Services
+PM,Philip Morris International Inc,Consumer Non-Durables
+BMY,Bristol-Myers Squibb Company,Health Technology
+WFC,Wells Fargo & Company,Finance
+TXN,Texas Instruments Incorporated,Electronic Technology
+TMUS,"T-Mobile US, Inc.",Communications
+CRM,"Salesforce, Inc.",Technology Services
+LIN,Linde plc,Process Industries
+AMD,Advanced Micro Devices Inc,Electronic Technology
+UPS,"United Parcel Service, Inc.",Transportation
+QCOM,QUALCOMM Incorporated,Electronic Technology
+T,AT&T Inc.,Communications
+MS,Morgan Stanley,Finance
+UNP,Union Pacific Corporation,Transportation
+NEE,"NextEra Energy, Inc.",Utilities
+MDT,Medtronic plc.,Health Technology
+RTX,Raytheon Technologies Corporation,Electronic Technology
+COP,ConocoPhillips,Energy Minerals
+HON,Honeywell International Inc.,Producer Manufacturing
+AMGN,Amgen Inc.,Health Technology
+BX,Blackstone Inc.,Finance
+CVS,CVS Health Corporation,Retail Trade
+LOW,"Lowes Companies, Inc.",Retail Trade
+SCHW,Charles Schwab Corporation (The),Finance
+IBM,International Business Machines Corporation,Technology Services
+AXP,American Express Company,Finance
+LMT,Lockheed Martin Corporation,Electronic Technology
+ANTM,"Anthem, Inc.",Health Services
+SPGI,S&P Global Inc.,Commercial Services
+DE,Deere & Company,Producer Manufacturing
+CAT,"Caterpillar, Inc.",Producer Manufacturing
+GS,"Goldman Sachs Group, Inc. (The)",Finance
+INTU,Intuit Inc.,Technology Services
+AMAT,"Applied Materials, Inc.",Producer Manufacturing
+MO,"Altria Group, Inc.",Consumer Non-Durables
+C,"Citigroup, Inc.",Finance
+BLK,"BlackRock, Inc.",Finance
+PYPL,"PayPal Holdings, Inc.",Commercial Services
+CB,Chubb Limited,Finance
+SYK,Stryker Corporation,Health Technology
+ADP,"Automatic Data Processing, Inc.",Technology Services
+MMM,3M Company,Producer Manufacturing
+MDLZ,"Mondelez International, Inc.",Consumer Non-Durables
+DUK,Duke Energy Corporation (Holding Company),Utilities
+ADI,"Analog Devices, Inc.",Electronic Technology
+BKNG,Booking Holdings Inc. Common Stock,Consumer Services
+GE,General Electric Company,Producer Manufacturing
+NOW,"ServiceNow, Inc.",Technology Services
+EL,"Estee Lauder Companies, Inc. (The)",Consumer Non-Durables
+SBUX,Starbucks Corporation,Consumer Services
+CI,Cigna Corporation,Health Services
+MU,"Micron Technology, Inc.",Electronic Technology
+GILD,"Gilead Sciences, Inc.",Health Technology
+CHTR,"Charter Communications, Inc.",Consumer Services
+NFLX,"Netflix, Inc.",Technology Services
+SO,Southern Company (The),Utilities
+ISRG,"Intuitive Surgical, Inc.",Health Technology
+MMC,"Marsh & McLennan Companies, Inc.",Finance
+TGT,Target Corporation,Retail Trade
+ZTS,Zoetis Inc.,Health Technology
+BA,Boeing Company (The),Electronic Technology
